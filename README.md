@@ -1,2 +1,0 @@
-# Projeto-bistro-box-app-main
-Bistro Box App é um aplicativo mobile desenvolvido com React Native e Expo, criado para otimizar a experiência de pedidos e gestão de um bistrô moderno.  O app oferece uma interface simples, intuitiva e responsiva, permitindo que clientes visualizem o cardápio, montem seus pedidos personalizados e acompanhem o status em tempo real. Para os administradores e colaboradores, o sistema também facilita o controle de pedidos e a organização da produção na cozinha.
